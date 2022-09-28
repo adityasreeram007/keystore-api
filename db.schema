@@ -1,0 +1,30 @@
+{
+  "_id": {
+    "$oid": "632ddf453f8acc7cebfbd062"
+  },
+  "userid": "adminone",
+  "apps": [
+    {
+      "name": "appone",
+      "keylist": [
+        {
+          "keyname": "appkey",
+          "keyvalue": "kjabhsfjabfaljsb"
+        },
+        {
+          "keyname": "futuremainapi",
+          "keyvalue": "lkjabflkjbaflkjjsd"
+        }
+      ]
+    },
+    {
+      "name": "apptwo",
+      "keylist": [
+        {
+          "keyname": "apptwokey",
+          "keyvalue": "kjabhsfjkjbhadljsb"
+        }
+      ]
+    }
+  ]
+}
